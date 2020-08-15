@@ -21,7 +21,7 @@
 ### About my work
 
 <a href="https://github.com/jesusrp98">
-  <img width="45%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
+  <img width="45%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true" />
 </a>
 
 - 💻 Working at [The Neon Project](https://theneonproject.org).
