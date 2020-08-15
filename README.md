@@ -18,9 +18,9 @@
 
 <br />
 
-## About my work
+### About my work
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💻 Working at [The Neon Project](https://theneonproject.org).
 - 👨‍👩‍👧‍👦 [GDG Córdoba](https://twitter.com/GDGCordobaESP) co-organizer
@@ -28,11 +28,11 @@
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2018
 - 📐 UX/UI design as a hobby 
 
-## Languages and Tools
+### Languages and Tools
 
 <p>
   <a href="https://github.com/jesusrp98">
-    <img width="55%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true" />
+    <img width="45%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
   </a>
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
@@ -44,7 +44,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 </p>
 
-## Relevant work
+### Relevant work
 <p align="center">
   <a href="https://github.com/jesusrp98/spacex-go">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesusrp98&repo=spacex-go" />
