@@ -20,7 +20,9 @@
 
 ### About my work
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://github.com/jesusrp98">
+  <img width="45%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
+</a>
 
 - 💻 Working at [The Neon Project](https://theneonproject.org).
 - 👨‍👩‍👧‍👦 [GDG Córdoba](https://twitter.com/GDGCordobaESP) co-organizer
@@ -30,15 +32,10 @@
 
 ### Languages and Tools
 
-<p>
-  <a href="https://github.com/jesusrp98">
-    <img width="45%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
-  </a>
-  <br/>
+<p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
