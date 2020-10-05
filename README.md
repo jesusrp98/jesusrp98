@@ -24,7 +24,7 @@
   <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
 </a>
 
-- 💻 Working at [The Neon Project](https://theneonproject.org).
+- 💻 Working at [EyeEm](https://www.eyeem.com/) as a freelancer.
 - 👨‍👩‍👧‍👦 [GDG Córdoba](https://twitter.com/GDGCordobaESP) co-organizer
 - 👨‍🎓 Computer Science student
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2018
