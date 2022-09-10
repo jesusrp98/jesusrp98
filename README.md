@@ -24,7 +24,7 @@
   <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=jesusrp98&show_icons=true&count_private=true&hide_border=true" />
 </a>
 
-- 💻 Working at [EyeEm](https://www.eyeem.com/) as a freelancer.
+- 💻 Working as a Flutter freelancer.
 - 👨‍👩‍👧‍👦 [GDG Córdoba](https://twitter.com/GDGCordobaESP) co-organizer
 - 👨‍🎓 Computer Science student
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2018
@@ -39,14 +39,4 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-</p>
-
-### Relevant work
-<p align="center">
-  <a href="https://github.com/jesusrp98/spacex-go">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesusrp98&repo=spacex-go" />
-  </a>
-  <a href="https://github.com/jesusrp98/dotfiles">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jesusrp98&repo=dotfiles" />
-  </a>
 </p>
