@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/jesusrp98/portfolio/main/assets/images/profile.png" width="200">
-
 <h1>
   Greetings 👋
 
